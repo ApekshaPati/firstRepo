@@ -1,7 +1,7 @@
 
 public class ArrayIndex {
 	
-	// reverse index
+	// reverse index of array
 	public static void main(String[] args) {
 		
 		int [] d = {23,34,45,56,67,78,12};
